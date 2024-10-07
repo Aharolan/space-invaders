@@ -10,9 +10,6 @@ This project is a simple **Space Invaders** game built using **Python** and the 
 - Increasing difficulty as more enemies appear over time.
 - Scoring system based on the number of invaders destroyed.
 
-## Screenshots
-_(Include a few screenshots of your game here if possible)_
-
 ## Installation
 
 ### Requirements
